@@ -1,0 +1,7 @@
+node_modules/
+.env
+icon.png
+old.js
+original.js
+backupSaved.json
+saved.json
